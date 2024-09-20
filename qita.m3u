@@ -2,178 +2,50 @@
 http://111.225.112.190:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",CETV4
 http://111.225.112.190:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",中国教育1
-http://39.164.202.90:8899/tsfile/live/0018_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",人文纪实
-http://39.164.223.174:7799/tsfile/live/0017_12.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",人文纪实
-http://39.164.202.90:8899/tsfile/live/0017_13.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",优漫卡通
-http://39.164.202.90:8899/tsfile/live/0139_14.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",IPTV体育
+http://118.248.169.168:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",中国交通
+http://111.225.112.190:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",保定公共
 http://111.225.112.190:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",保定新闻综合
 http://111.225.112.190:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",保定生活健康
-http://121.19.134.52:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",儿童
-http://39.164.223.174:7799/tsfile/live/0139_17.m3u8?key=txiptv&playlive=1&authid=0
+http://111.225.112.190:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",公共
 http://123.163.114.123:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",动作电影
-http://39.164.223.174:7799/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",卡酷动画
-http://39.164.202.90:8899/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",嘉佳卡通
-http://39.164.223.174:7799/tsfile/live/0017_21.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",嘉佳卡通
-http://39.164.202.90:8899/tsfile/live/0017_22.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",国学
-http://39.164.202.90:8899/tsfile/live/0139_9.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",国防军事
-http://39.164.202.90:8899/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",巩义综合
-http://39.164.202.90:8899/tsfile/live/0017_8.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",巩义综合
-http://39.164.223.174:7799/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",文物
-http://39.164.223.174:7799/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",文物
-http://39.164.202.90:8899/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",新蔡
-http://39.164.223.174:7799/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",山东教育
+http://111.225.112.190:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",新闻
 http://123.163.114.123:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",新闻综合
-http://39.164.223.174:7799/tsfile/live/0139_11.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",新闻综合
-http://39.164.202.90:8899/tsfile/live/0017_9.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",新闻综合
-http://39.164.202.90:8899/tsfile/live/0139_11.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",晴彩中原
-http://39.164.223.174:7799/tsfile/live/0139_16.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",晴彩中原
-http://39.164.202.90:8899/tsfile/live/0139_16.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",梨园
 http://123.163.114.123:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",棋牌汇
-http://39.164.223.174:7799/tsfile/live/0017_10.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",欢腾购物
-http://39.164.202.90:8899/tsfile/live/0017_6.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",欢腾购物
-http://39.164.223.174:7799/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",武术世界
-http://39.164.202.90:8899/tsfile/live/0017_10.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",武术世界
-http://121.19.134.52:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",民生
 http://123.163.114.123:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北公共
-http://111.225.112.190:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北公共
-http://121.19.134.52:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北农民
 http://111.225.112.190:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北少儿科教
 http://111.225.112.190:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北少儿科教
-http://121.19.134.52:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北影视剧
 http://111.225.112.190:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北影视剧
-http://121.19.134.52:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北杂技
-http://121.19.134.52:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北杂技
 http://111.225.112.190:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北经济生活
 http://111.225.112.190:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河北经济生活
-http://121.19.134.52:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",河北都市
 http://111.225.112.190:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南公共
-http://39.164.202.90:8899/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南新闻
-http://39.164.202.90:8899/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南新闻
-http://39.164.223.174:7799/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://39.164.202.90:8899/tsfile/live/0139_8.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南民生
-http://39.164.223.174:7799/tsfile/live/0139_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南民生
-http://39.164.202.90:8899/tsfile/live/0139_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南法制
-http://39.164.202.90:8899/tsfile/live/0139_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南法制
-http://39.164.223.174:7799/tsfile/live/0139_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南电视剧
-http://39.164.202.90:8899/tsfile/live/0139_5.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南都市
-http://39.164.223.174:7799/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河南都市
-http://39.164.202.90:8899/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",法制
-http://123.163.114.123:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",炫动卡通
-http://39.164.202.90:8899/tsfile/live/0139_15.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",炫动卡通
-http://39.164.223.174:7799/tsfile/live/0139_15.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",热播剧场
-http://39.164.223.174:7799/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",电影
-http://39.164.223.174:7799/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",登封综合
-http://39.164.223.174:7799/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",登封综合
-http://39.164.202.90:8899/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",百姓调解
-http://39.164.223.174:7799/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",移动戏曲
-http://39.164.223.174:7799/tsfile/live/0017_6.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",湖南娱乐
+http://118.248.169.168:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",湖南都市
+http://118.248.169.168:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",湖南金鹰卡通
+http://118.248.169.168:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",移动戏曲
 http://123.163.114.123:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",移动戏曲
-http://39.164.202.90:8899/tsfile/live/0017_7.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",纪实人文
 http://111.225.112.190:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",经典电影
-http://39.164.223.174:7799/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",综合
-http://39.164.202.90:8899/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",综合
-http://39.164.223.174:7799/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",美食汇
-http://39.164.202.90:8899/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",美食汇
-http://39.164.223.174:7799/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",荥阳综合
-http://39.164.202.90:8899/tsfile/live/0139_13.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",谍战剧场
-http://39.164.223.174:7799/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",都市
 http://123.163.114.123:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://39.164.202.90:8899/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://39.164.223.174:7799/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://111.225.112.190:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰卡通
-http://121.19.134.52:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",金鹰纪实
 http://111.225.112.190:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰纪实
-http://121.19.134.52:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",驻马店公共2
-http://39.164.202.90:8899/tsfile/live/0121_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",驻马店新闻综合1
-http://39.164.223.174:7799/tsfile/live/0139_10.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",驻马店新闻综合1
-http://39.164.202.90:8899/tsfile/live/0139_10.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",驻马店科技3
-http://39.164.202.90:8899/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",驻马店科技3
-http://39.164.223.174:7799/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="2024-09-19更新"
+#EXTINF:-1 group-title="2024-09-20更新"
