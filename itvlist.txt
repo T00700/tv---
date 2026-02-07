@@ -1,16 +1,6 @@
 央视频道,#genre#
 
 卫视频道,#genre#
-天津卫视,http://121.19.134.204:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://121.19.134.204:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://121.19.134.204:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://49.234.31.101:7040/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://121.19.134.204:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://121.19.134.204:808/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://121.19.134.204:808/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://121.19.134.204:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://121.19.134.204:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 其他频道,#genre#
-金鹰纪实,http://121.19.134.204:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-02-06更新,#genre#
+2026-02-07更新,#genre#
