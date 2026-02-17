@@ -1,3 +1,4 @@
 其他频道,#genre#
-精彩河北,http://101.23.150.109:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-02-16更新,#genre#
+河北农民,http://101.23.150.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济生活,http://121.19.134.204:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-17更新,#genre#
