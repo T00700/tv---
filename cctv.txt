@@ -1,1 +1,2 @@
 央视频道,#genre#
+CCTV5,http://49.234.31.101:7040/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
