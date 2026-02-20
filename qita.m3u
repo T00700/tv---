@@ -1,1 +1,35 @@
-#EXTINF:-1 group-title="2026-02-19更新"
+#EXTINF:-1 group-title="其他频道",五华台
+http://49.234.31.101:7066/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="其他频道",嘉佳卡通
+http://49.234.31.101:7066/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="其他频道",少儿动画
+http://49.234.31.101:7011/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东体育
+http://49.234.31.101:7040/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东新闻
+http://49.234.31.101:7040/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",怀旧剧场
+http://49.234.31.101:7011/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",梅州1
+http://49.234.31.101:7011/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",梅州2
+http://49.234.31.101:7066/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="其他频道",河北影视剧
+http://121.19.134.204:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",深圳都市
+http://49.234.31.101:7066/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="其他频道",相声小品
+http://49.234.31.101:7011/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",经济科教
+http://49.234.31.101:7040/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",谍战剧场
+http://49.234.31.101:7066/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="其他频道",野外
+http://49.234.31.101:7011/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://121.19.134.204:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰纪实
+http://49.234.31.101:7011/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",魅力时尚
+http://49.234.31.101:7011/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="2026-02-20更新"

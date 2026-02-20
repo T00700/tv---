@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://49.234.31.101:7040/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
