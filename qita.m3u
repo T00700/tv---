@@ -1,15 +1,1 @@
-#EXTINF:-1 group-title="其他频道",广东少儿
-http://49.234.31.101:7040/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",梅州2
-http://49.234.31.101:7066/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="其他频道",河北经济生活
-http://121.19.134.204:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",河源公共
-http://49.234.31.101:7011/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",足球
-http://49.234.31.101:7011/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰纪实
-http://121.19.134.204:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",魅力时尚
-http://49.234.31.101:7011/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="2026-02-24更新"
+#EXTINF:-1 group-title="2026-02-25更新"
