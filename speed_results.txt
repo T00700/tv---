@@ -1,0 +1,7 @@
+上海卫视,http://125.43.247.245:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0,1.283 MB/s
+云南卫视,http://125.43.247.245:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0,1.180 MB/s
+四川卫视,http://125.43.247.245:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0,1.040 MB/s
+山东卫视,http://125.43.247.245:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0,1.448 MB/s
+辽宁卫视,http://125.43.247.245:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0,1.116 MB/s
+金鹰卡通,http://125.43.247.245:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0,1.372 MB/s
+魅力音乐,http://125.43.247.245:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.876 MB/s
